@@ -1,0 +1,13 @@
+body {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF3dmTOoXa3M9LkI39xOe9652EMLBQ5TyclA&usqp=CAU');
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF3dmTOoXa3M9LkI39xOe9652EMLBQ5TyclA&usqp=CAU');
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
